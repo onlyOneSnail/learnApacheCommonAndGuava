@@ -19,7 +19,7 @@ import java.util.stream.Collectors;
  * @date 2024/4/19/0019
  * @description TODO
  */
-public class JoinerText {
+public class JoinerTest {
 
     public static final List<Person> PERSON_LIST =
             Lists.newArrayList(new Person("jone","student"),
